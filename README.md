@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 To setup, install Flask:
 
@@ -6,7 +6,7 @@ To setup, install Flask:
 pip install flask
 ```
 
-#Run
+# Run
 
 Once Flask is installed, you can run:
 
